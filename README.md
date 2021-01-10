@@ -6,7 +6,6 @@ In this repo we implent the L1-norm Higher-Order Singular-Value Decomposition al
 
 ---
 * IEEEXplore article: https://ieeexplore.ieee.org/document/9048980
-* Source code: 
 ---
 **Questions/issues**
 
