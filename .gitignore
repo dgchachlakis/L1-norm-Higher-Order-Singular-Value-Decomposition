@@ -3,4 +3,4 @@ utils/__pycache__/
 l1pca/__pycache__/
 algorithm/__pycache__/
 tests/
-test1
+test1.py
