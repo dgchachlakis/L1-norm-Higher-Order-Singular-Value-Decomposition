@@ -15,7 +15,7 @@ Inquiries regarding the scripts provided below are cordially welcome. In case yo
 **Citing**
 
 If you use our algorihtms, please cite [[1]](https://ieeexplore.ieee.org/document/8646385).
-```
+```bibtex
 @INPROCEEDINGS{l1hosvd,
   author={P. P. {Markopoulos} and D. G. {Chachlakis} and A. {Prater-Bennette}},
   booktitle={2018 IEEE Global Conference on Signal and Information Processing (GlobalSIP)}, 
